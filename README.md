@@ -18,4 +18,3 @@ I'm Sai Nihal, a Computer Science major at UVic, specializing in software system
 ## 📬 Let's Connect!
 I'm open to discussions on anything related to AI, ML, or software development. Feel free to reach out—I'm always up for an engaging conversation!
 
-Happy coding! 🌟
