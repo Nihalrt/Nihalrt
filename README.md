@@ -5,7 +5,7 @@ I'm Sai Nihal, a Computer Science major at UVic, specializing in software system
 ## 🚀 What I'm up to:
 - Studying AWS for Cloud Practitioner and Certified Developer exams.
 - Preparing for the TensorFlow exam.
-- Exploring the exciting worlds of AI, ML, and software development.
+- Exploring the exciting worlds of AI, ML, software development and Cloud
 
 ## 💻 Skills:
 - **Programming Languages:** Python, Java, C, MySQL, HTML, CSS, JavaScript
