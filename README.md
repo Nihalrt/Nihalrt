@@ -4,16 +4,18 @@ I'm Sai Nihal, a Computer Science major at UVic, specializing in software system
 
 ## 🚀 What I'm up to:
 - Studying AWS for Cloud Practitioner and Certified Developer exams.
-- Preparing for the TensorFlow exam.
+- Working on some full stack projects.
+- Leetcoding for fun
 - Exploring the exciting worlds of AI, ML, software development and Cloud
 
-## 💻 Skills:
-- **Programming Languages:** Python, Java, C, MySQL, HTML, CSS, JavaScript
-- **Frameworks:** React, Tailwind CSS, Node.js, Next.js
-- **Developer Tools:** Git, VsCode, Docker
-- **Operating Systems:** Linux, Unix, MacOS, Windows
-- **Project Management:** Scrum, Kanban
-- **Soft Skills:** Communication, Teamwork, Problem-Solving, Quick Learning, Detail-Oriented, Adaptable
+💻 **Tech Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 ## 📬 Let's Connect!
 I'm open to discussions on anything related to AI, ML, or software development. Feel free to reach out—I'm always up for an engaging conversation!
