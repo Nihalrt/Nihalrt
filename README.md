@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sai Nihal Diddi
 
-🚀 **Aspiring Software Developer | Cloud Enthusiast | Full-Stack Developer**  
+🚀 **Aspiring Cloud Engineer | ML Engineer | Full-Stack Developer **  
 📍 Victoria, BC | 🎓 BSc Computer Science (Software Systems Major, Business Minor) @ University of Victoria  
 
 ## 🔗 Connect with Me
