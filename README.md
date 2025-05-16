@@ -1,6 +1,6 @@
 # Sai Nihal Diddi
 
-**Cloud & Full-Stack Developer | QA-Driven Thinker | Machine Learning Explorer**  
+**Software Developement |  Cloud Engineering | AI & ML **  
 Victoria, BC · BSc Computer Science (Software Systems Major, Business Minor)  
 University of Victoria · Graduation: May 2026
 
