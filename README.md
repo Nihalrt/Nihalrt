@@ -1,100 +1,57 @@
 # Sai Nihal Diddi
 
-**Software Developement |  Cloud Engineering | AI & ML **  
-Victoria, BC · BSc Computer Science (Software Systems Major, Business Minor)  
-University of Victoria · Graduation: May 2026
+**Software developer · Backend systems · Applied AI · Test automation**
 
----
+Vancouver, BC · BSc Computer Science, Software Systems · University of Victoria  
+Expected graduation: **December 2026**
 
-## About Me
+[Portfolio](https://nihalrt.github.io/my-portfolio/) · [LinkedIn](https://www.linkedin.com/in/sai-nihal-diddi-2444471bb/) · [Email](mailto:sainihaldiddi@uvic.ca)
 
-Hey there! I'm Sai Nihal — a passionate computer science student with a drive to build smart, scalable, and meaningful software. I enjoy solving complex problems across the cloud, full-stack development, and AI/ML space. Whether it’s automating a deployment pipeline, analyzing cloud workloads, or crafting intuitive web interfaces — I’m all in.
+I build software that connects data, services, and useful interfaces. My experience includes backend development and automation at Motorola Solutions, research into LLM inference at UVic, and regression testing at Journal Technologies.
 
-Currently, I'm diving deep into **AWS, CI/CD, and data engineering**, while experimenting with machine learning applications in cloud environments. I love combining clean code with sharp design and thoughtful engineering.
+## Selected projects
 
----
+### [Switchboard — feature-flag monitoring](https://github.com/Nihalrt/switchboard)
 
-## What I’m All About
+**Go · Python · FastAPI · Redis · PostgreSQL · Gemini**
 
--  Building systems that are **efficient**, **scalable**, and **easy to maintain**
--  Blending **frontend creativity** with **backend logic**
--  Crafting solutions on the **cloud** using AWS and DevOps pipelines
--  Testing-first mindset with experience in **QA, Selenium, and automation**
--  Always exploring the intersection of software, infrastructure, and AI
+Deterministic device routing with agents that compare rollout failures, recommend rollback or escalation, and investigate possible flag interactions. Uses simulated outcomes and keeps pair-level findings advisory.
 
----
+[Architecture and code walkthrough](https://github.com/Nihalrt/switchboard#architecture) · [Tests and setup](https://github.com/Nihalrt/switchboard#tests)
 
-##  Tech Toolkit
+### [Lucent — typed and handwritten notes](https://github.com/Nihalrt/agent-notes)
 
-###  Programming & Web
-- **Languages:** Python, Java, C, JavaScript, HTML/CSS
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Databases:** PostgreSQL, MySQL
+**React Native · Expo · FastAPI · PostgreSQL · Gemini**
 
-###  Cloud & DevOps
-- **Platforms:** AWS (EC2, RDS, S3, Amplify)
-- **Tools:** Docker, Git, Jenkins
-- **Practices:** CI/CD, Agile (Scrum/Kanban), Test Automation
+A shared web and mobile codebase that turns notes into summaries, action items, and tags. Vector handwriting, Gemini transcription, and embedding-based retrieval connect new ideas with related notes.
 
-###  Data & ML
-- **Libraries:** NumPy, Pandas, TensorFlow, Matplotlib
-- **Focus:** Predictive modeling, cloud cost optimization, anomaly detection
+[Open web demo](https://nihalrt.github.io/agent-notes/) · [Implementation and setup](https://github.com/Nihalrt/agent-notes#main-parts)  
+The demo is a shared workspace. Please use sample notes.
 
----
+### [Real-time fraud detection](https://github.com/Nihalrt/Realtime-Fraud-Detection-With-MLOps)
 
-##  Experience Snapshot
+**Python · Kafka · PySpark · scikit-learn · PostgreSQL · Streamlit**
 
-### Junior QA (Co-op)  
-**Journal Technologies** · *Jan 2024 – Aug 2024*  
-- Led the transition from Excel to TestRail, boosting test process efficiency by 20%  
-- Built test automation frameworks with **Java & Selenium WebDriver** (POM architecture)  
-- Performed sprint-based regression testing in AWS-based environments  
-- Resolved 100+ JIRA bugs and collaborated in fast-paced Agile Scrum teams  
-- Gained hands-on experience debugging real-world systems and feature rollouts
+Transaction feature engineering and model scoring with Kafka alerts, durable PostgreSQL storage, and a dashboard. Training artifacts retain feature order, scaling, threshold, and score-calibration settings.
 
----
+[Implemented architecture](https://github.com/Nihalrt/Realtime-Fraud-Detection-With-MLOps#what-is-implemented) · [Tests and limitations](https://github.com/Nihalrt/Realtime-Fraud-Detection-With-MLOps#tests)
 
-##  Highlight Projects
+[Explore more projects and the code behind them →](PROJECTS.md)
 
-###  Docker Optimizer  
-**Python, Docker SDK**  
-Analyzes Dockerfiles and suggests image optimizations for faster, lighter builds  
-[GitHub ↗](https://github.com/Nihalrt/docker-optimizer)
+## Experience
 
-###  LSTM Cloud Predictor  
-**Python, TensorFlow, Keras**  
-Forecasts cloud resource usage and detects anomalies to aid infrastructure planning  
-[GitHub ↗](https://github.com/Nihalrt/ltsm-cloud-predict)
+- **Motorola Solutions — Software Development & Automation Co-op** · Jan–Aug 2026  
+  Optimized C++ authentication logic, reducing LDAP queries from over 1,000 to one per request. Built Python crash-dump tools, contributed to AI-assisted test migration and locator repair, and helped deliver React/Ruby UI components.
+- **University of Victoria — ML Research Assistant** · May–Nov 2025  
+  Investigated speculative decoding for LLM inference, including verification batch sizes, dynamic block sizing, and latency trade-offs.
+- **Journal Technologies — Junior QA Analyst Co-op** · Jan–Aug 2024  
+  Built Java/Selenium page-object models, integrated regression checks into CI/CD, investigated flaky tests, and improved test traceability through TestRail.
 
-###  Data Guard  
-**Python, MySQL**  
-Validates database integrity by checking for constraint and relationship violations  
-[GitHub ↗](https://github.com/Nihalrt/DataGuard)
+## Tools I work with
 
-###  Inventory Dashboard  
-**React, Next.js, Redux, AWS (EC2, RDS, S3, Amplify)**  
-Real-time inventory management system with rich data visualizations  
-[Live Demo ↗](https://master.d2o7lfqfv6xv4x.amplifyapp.com/) | [GitHub ↗](https://github.com/Nihalrt)
+- **Languages:** Python, Go, Java, C/C++, JavaScript/TypeScript, SQL, Ruby
+- **Applications and AI:** FastAPI, React, React Native, Expo, PySpark, scikit-learn, Gemini
+- **Data and infrastructure:** PostgreSQL, Redis, Kafka, Docker, AWS EC2/RDS/S3
+- **Testing and delivery:** Selenium, unittest, Go testing, GitHub Actions, Jenkins
 
-###  Command Pipe Executor  
-**C Programming**  
-Custom shell program supporting command piping, redirection, and background tasks  
-[GitHub ↗](https://github.com/Nihalrt/Command-Pipe-Executor)
-
----
-
-##  GitHub Overview
-
-![Sai Nihal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nihalrt&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihalrt&layout=compact&theme=default)
-
----
-
-##  Let's Connect
-
-I love collaborating on new ideas, building cool things, and learning with others. Whether you're hiring, brainstorming a side project, or want to chat about cloud/AI/dev – I’m always open to connecting!
-
--  [sainihaldiddi@uvic.ca](mailto:sainihaldiddi@uvic.ca)  
--  [LinkedIn](https://www.linkedin.com/in/sai-nihal-diddi-2444471bb/)  
--  [GitHub](https://github.com/Nihalrt)
+UVic INSPIRE Hackathon winner, 2025. Interested in software engineering opportunities involving backend services, applied AI, and reliable delivery.
